@@ -1,9 +1,8 @@
 {
-    "db":"lycheetest",
-    "dbUser":"lycheetest",
-    "dbPassword":"lycheetest",
-    "dbHost":"localhost",
-    "dbSocket":"/var/run/mysqld/mysqld.sock",
+    "db":"lychee",
+    "dbUser":"lychee",
+    "dbPassword":"lychee",
+    "dbHost":"mysql",
     "thumbQuality":80,
     "publicAlbum": 0,
     "excludeAlbums": [
